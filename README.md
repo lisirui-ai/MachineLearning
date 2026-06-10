@@ -80,7 +80,8 @@ MachineLearning/
 ├── 3、regression_algorithm.ipynb     # 回归算法
 ├── data/                              # 数据集缓存（运行时生成）
 ├── LICENSE
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ## 许可证
