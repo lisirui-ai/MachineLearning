@@ -1,3 +1,5 @@
+[English](README_EN.md) | 中文
+
 # MachineLearning
 
 基于 **scikit-learn** 的机器学习仓库，通过 Jupyter Notebook 系统讲解特征工程、分类、回归与聚类的原理与实战，每段代码均配有详细中文注释，适合入门学习与复习查阅。

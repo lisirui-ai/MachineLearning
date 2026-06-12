@@ -1,3 +1,5 @@
+English | [中文](README.md)
+
 # MachineLearning
 
 A **scikit-learn**-based machine learning repository that systematically covers feature engineering, classification, regression, and clustering through Jupyter Notebooks. Every code cell is annotated in detail, making it ideal for beginners and for review.
