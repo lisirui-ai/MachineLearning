@@ -10,6 +10,7 @@
 | `2.classification_algorithm.ipynb`   | 分类算法 | KNN（Facebook 签到）、朴素贝叶斯（20 Newsgroups）、决策树（Titanic）、随机森林、Pipeline 与 GridSearchCV                   |
 | `3.regression_algorithm.ipynb`       | 回归算法 | 线性回归（正规方程）、SGD 梯度下降、Lasso / Ridge 正则化、逻辑回归（乳腺癌）                                                   |
 | `4.clustering.ipynb`                 | 聚类算法 | KMeans（make_blobs 模拟数据 + 客户消费行为案例）、肘部法（SSE）、轮廓系数（SC）评估、聚类结果可视化                                   |
+| `5.ensemble_learning.ipynb`          | 集成学习 | 手动投票分类器、VotingClassifier（硬/软投票）、BaggingClassifier（OOB 袋外评估）、随机子空间与随机补丁、随机森林、Extra-Trees、AdaBoost、GBDT |
 
 
 ## 技术栈
@@ -66,6 +67,7 @@ jupyter notebook
 2. `2.classification_algorithm.ipynb` — 分类算法
 3. `3.regression_algorithm.ipynb` — 回归算法
 4. `4.clustering.ipynb` — 聚类算法
+5. `5.ensemble_learning.ipynb` — 集成学习
 
 ## 数据集说明
 
@@ -88,6 +90,7 @@ MachineLearning/
 ├── 2.classification_algorithm.ipynb  # 分类算法
 ├── 3.regression_algorithm.ipynb      # 回归算法
 ├── 4.clustering.ipynb                # 聚类算法
+├── 5.ensemble_learning.ipynb         # 集成学习
 ├── data/                             # 数据集目录
 │   ├── FBlocation/                   # Facebook 签到数据（需从 Kaggle 下载）
 │   │   ├── train.csv
